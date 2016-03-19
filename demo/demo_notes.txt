@@ -1,0 +1,8 @@
+pastebin.com
+u: m2mtritronik
+p: 12345m2m
+
+Belajar	: {"app_cmd":"1","imei":"","SubDev":"00"}<CR><LF>
+Code	: {"app_cmd":"0","imei":"","SubDev":"00"}<CR><LF>
+Cancel	: {"app_cmd":"2","imei":"","SubDev":"00"}<CR><LF>
+Command	: {"app_cmd":"3","SubDev":"11","imei":"","app_ircode":"0201299E163C171217121713163B171316141613163B163B17141514141515141515141514151514151514151415143E1415143E141514151514153D14000D","sec":"0"}<CR><LF>
